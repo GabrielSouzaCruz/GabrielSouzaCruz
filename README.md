@@ -2,10 +2,11 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJpdG9scnYyN2RsZzZxZGNoNzh5eWxjenNpZzY3NDJpZmtkNm0xYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwzWJPb0fgZ5Vhfi2o/200.webp" alt="Pixel Art" align="right" width="200">
 
-
+<div>
 <div>
 <img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api/top-langs/?username=GabrielSouzaCruz&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api?username=GabrielSouzaCruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 </div>
   
 ![Snake animation](https://github.com/GabrielSouzaCruz/SnakeAnimation/blob/6723b9fc385aa1bf26e9350e627ad6b52c3be6cf/SnakeAnimationCode)
