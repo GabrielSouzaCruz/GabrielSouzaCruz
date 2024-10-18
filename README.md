@@ -2,7 +2,7 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJpdG9scnYyN2RsZzZxZGNoNzh5eWxjenNpZzY3NDJpZmtkNm0xYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwzWJPb0fgZ5Vhfi2o/200.webp" alt="Pixel Art" align="right" width="200">
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C# Art" align="left" width="200" />
           
 <br>
 <div>
