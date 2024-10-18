@@ -7,7 +7,7 @@
 
 <br><Div>
 <img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api/top-langs/?username=GabrielSouzaCruz&layout=compact&langs_count=7&theme=dracula" />
-<img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api?username=GabrielSouzaCruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /><br> 
+<img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api?username=GabrielSouzaCruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </Div>
   
 ![Snake animation](https://github.com/GabrielSouzaCruz/SnakeAnimation/blob/main/SnakeAnimationCode.svg)
