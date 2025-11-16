@@ -5,7 +5,7 @@
 ### 👨‍💻 Sobre Mim
 
 * 👋 Olá! Sou o Gabriel.
-* 🎓 Estudante de **Sistemas de Informação** na **IFSULDEMINAS - Campus Machado**.
+* 🎓 Estudante de **Sistemas de Informação** no **IFSULDEMINAS - Campus Machado**.
 * 💼 Atualmente trabalho como **Estagiário** na **Prefeitura de Machado-MG**.
 * 📫 Como me encontrar: **contato.gabrielsouzacruz@gmail.com**
 
